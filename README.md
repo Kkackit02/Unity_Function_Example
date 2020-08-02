@@ -3,4 +3,4 @@
 
 
 
-- 리깅 : Package Manager - (2D PSD Importer , 2D Animation) 
+- 리깅 : Package Manager - (2D PSD Importer , 2D Animation) , 2D Spine, Turner Set 사용(에셋스토어)
